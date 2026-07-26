@@ -1,0 +1,4 @@
+Ovde će se nalaziti slike proizvoda, logo i promotivni materijali za web prodavnicu nakita.
+
+Slike proizvoda su generisane pomoću AI alati:
+- Bing Image Creator 
