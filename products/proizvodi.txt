@@ -14,6 +14,20 @@ Narukvice:
 - Tennis narukvica
 - Narukvica sa privescima
 
+Minđuše:
+- Alke
+- Biserne minđuše
+- Minđuše sa cirkonima
+- Viseće minđuše
+- Stud minđuše
+
+Prstenje:
+- Zlatni prsten
+- Srebrni prsten
+- Prsten sa cirkonom
+- Podesivi prsten
+- Prsten u obliku srca
+
 Dodaci:
 - Kutija za nakit
 - Putna kutija za nakit
