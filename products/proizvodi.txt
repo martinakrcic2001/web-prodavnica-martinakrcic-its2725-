@@ -1,0 +1,22 @@
+Kategorije i proizvodi
+
+Ogrlice:
+- Zlatna ogrlica sa srcem
+- Srebrna ogrlica sa biserom
+- Ogrlica sa leptićem
+- Minimalistička ogrlica
+- Ogrlica sa cirkonima
+
+Narukvice:
+- Zlatna narukvica
+- Srebrna narukvica
+- Narukvica sa perlama
+- Tennis narukvica
+- Narukvica sa privescima
+
+Dodaci:
+- Kutija za nakit
+- Putna kutija za nakit
+- Krpica za čišćenje nakita
+- Organizator za nakit
+- Poklon kesica
